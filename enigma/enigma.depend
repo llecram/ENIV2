@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1535929390 source:d:\programas\enigma\main.cpp
+	"enigma.h"
+
+1535929596 d:\programas\enigma\include\enigma.h
+	<iostream>
+	<string>
+
+1535853404 source:d:\programas\enigma\src\enigma.cpp
+	"enigma.h"
+
+1537132379 source:d:\programas hechos por mi\enigma\main.cpp
+	"enigma.h"
+
+1537132694 d:\programas hechos por mi\enigma\include\enigma.h
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
+1537136631 source:d:\programas hechos por mi\enigma\src\enigma.cpp
+	"enigma.h"
+
